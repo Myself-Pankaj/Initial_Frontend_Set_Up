@@ -27,7 +27,7 @@ Ensure the following are installed before getting started:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Myself-Pankaj/Initial_Frontend_Set_Up.git
 cd <repository-folder>
 ```
 
